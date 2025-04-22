@@ -1,0 +1,10 @@
+
+
+.nav-link:hover {
+    color: red;
+}
+
+div[class="nav-link"]{
+    background: none; color: #5b5f66; border: none; padding-left: 18px; padding-right: 18px; padding-top: 5px; padding-bottom: 5px; font: inherit; cursor: pointer; outline: inherit;
+}
+
